@@ -1,0 +1,37 @@
+# Unit Converter (CLI)
+
+This is a command-line Unit Converter built in Python.
+
+The goal of this project was to implement a modular and organized solution capable of converting different measurement units while maintaining simplicity and clarity.
+
+## Features
+
+- Temperature conversion:
+  - Celsius to Fahrenheit
+  - Fahrenheit to Celsius
+
+- Weight conversion:
+  - Kilograms to Grams
+  - Grams to Kilograms
+
+- Time conversion:
+  - Hours to Minutes
+  - Hours to Seconds
+  - Minutes to Hours
+  - Minutes to Seconds
+  - Seconds to Hours
+  - Seconds to Minutes
+
+- Cross-platform terminal clearing (Windows and Linux support)
+- Structured menu navigation
+- Basic input validation
+
+## Technical Concepts Applied
+
+- Function modularization
+- Conditional logic
+- User input handling
+- Mathematical operations and rounding
+- Operating system detection using `os.name`
+
+This project emphasizes clean structure, logical organization, and practical implementation of core Python fundamentals.
