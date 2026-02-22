@@ -1,0 +1,26 @@
+# Password Generator (CLI)
+
+This is a simple command-line password generator built in Python.
+
+The goal of this project was to implement a clean and functional solution while demonstrating solid programming fundamentals using only essential features.
+
+## Features
+
+- Customizable password length
+- Multiple generation modes:
+  - Full (letters, digits, and special characters)
+  - Letters and digits only
+  - Letters only
+  - Digits only
+- Input validation for user selection
+- Clean terminal interface (CLI)
+
+## Technical Concepts Applied
+
+- Python standard libraries (`random`, `string`, `os`)
+- Structural pattern matching (`match-case`, Python 3.10+)
+- String manipulation
+- Function modularization
+- Basic input validation logic
+
+This project focuses on simplicity, clarity, and proper use of Python fundamentals.
